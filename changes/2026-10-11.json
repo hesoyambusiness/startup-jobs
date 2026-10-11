@@ -1,0 +1,173 @@
+{
+  "baseline": false,
+  "companies_with_added_jobs": 1252,
+  "companies_with_removed_jobs": 1329,
+  "date": "2026-10-11",
+  "jobs_added": 4000,
+  "jobs_removed": 3966,
+  "jobs_total": 104500,
+  "top_companies_adding_jobs": [
+    {
+      "company": "LifeStance Health",
+      "jobs": 120
+    },
+    {
+      "company": "Anduril Industries",
+      "jobs": 78
+    },
+    {
+      "company": "SpaceX",
+      "jobs": 64
+    },
+    {
+      "company": "Channel Corp.",
+      "jobs": 60
+    },
+    {
+      "company": "One Medical",
+      "jobs": 53
+    },
+    {
+      "company": "FuriosaAI",
+      "jobs": 48
+    },
+    {
+      "company": "Rocket Lab",
+      "jobs": 43
+    },
+    {
+      "company": "Shield AI",
+      "jobs": 40
+    },
+    {
+      "company": "CI&amp;T",
+      "jobs": 37
+    },
+    {
+      "company": "Wise",
+      "jobs": 31
+    },
+    {
+      "company": "Pinterest",
+      "jobs": 26
+    },
+    {
+      "company": "Assembly",
+      "jobs": 24
+    },
+    {
+      "company": "Daniels Health",
+      "jobs": 24
+    },
+    {
+      "company": "Horizon3.ai",
+      "jobs": 23
+    },
+    {
+      "company": "CesiumAstro",
+      "jobs": 23
+    },
+    {
+      "company": "Stripe",
+      "jobs": 23
+    },
+    {
+      "company": "Affirm",
+      "jobs": 22
+    },
+    {
+      "company": "InPost",
+      "jobs": 21
+    },
+    {
+      "company": "Quantinuum",
+      "jobs": 20
+    },
+    {
+      "company": "Axon",
+      "jobs": 20
+    }
+  ],
+  "top_companies_removing_jobs": [
+    {
+      "company": "Binance",
+      "jobs": 176
+    },
+    {
+      "company": "LifeStance Health",
+      "jobs": 153
+    },
+    {
+      "company": "Anduril Industries",
+      "jobs": 73
+    },
+    {
+      "company": "Distro",
+      "jobs": 67
+    },
+    {
+      "company": "Pinterest",
+      "jobs": 39
+    },
+    {
+      "company": "EGYM",
+      "jobs": 35
+    },
+    {
+      "company": "CI&amp;T",
+      "jobs": 34
+    },
+    {
+      "company": "Cribl",
+      "jobs": 31
+    },
+    {
+      "company": "Rocket Lab",
+      "jobs": 31
+    },
+    {
+      "company": "SpaceX",
+      "jobs": 30
+    },
+    {
+      "company": "Zellerfeld",
+      "jobs": 26
+    },
+    {
+      "company": "Grafana Labs",
+      "jobs": 25
+    },
+    {
+      "company": "Airwallex",
+      "jobs": 24
+    },
+    {
+      "company": "Quantinuum",
+      "jobs": 22
+    },
+    {
+      "company": "Shield AI",
+      "jobs": 21
+    },
+    {
+      "company": "Anthropic",
+      "jobs": 21
+    },
+    {
+      "company": "Natera",
+      "jobs": 20
+    },
+    {
+      "company": "STARK",
+      "jobs": 20
+    },
+    {
+      "company": "Daniels Health",
+      "jobs": 20
+    },
+    {
+      "company": "OpenAI",
+      "jobs": 20
+    }
+  ]
+}
